@@ -1,0 +1,86 @@
+07/06/2021 12:11:05	This log contains information about the import schema operation into project 'Employee_db' on computer 'DESKTOP-EJSJ1VI' by user 'Jithin'.
+07/06/2021 12:11:06	Import of database schema has started.
+07/06/2021 12:11:10	Gathering database credentials
+07/06/2021 12:11:10	Gathering database options
+07/06/2021 12:11:10	Gathering generic database scoped configuration option
+07/06/2021 12:11:10	Gathering users
+07/06/2021 12:11:10	Gathering roles
+07/06/2021 12:11:10	Gathering application roles
+07/06/2021 12:11:10	Gathering role memberships
+07/06/2021 12:11:11	Gathering filegroups
+07/06/2021 12:11:11	Gathering full-text catalogs
+07/06/2021 12:11:11	Gathering assemblies
+07/06/2021 12:11:11	Gathering certificates
+07/06/2021 12:11:11	Gathering asymmetric keys
+07/06/2021 12:11:11	Gathering symmetric keys
+07/06/2021 12:11:11	Gathering encrypted symmetric keys
+07/06/2021 12:11:11	Gathering schemas
+07/06/2021 12:11:11	Gathering XML schema collections
+07/06/2021 12:11:11	Gathering user-defined data types
+07/06/2021 12:11:11	Gathering user-defined types
+07/06/2021 12:11:11	Gathering table types
+07/06/2021 12:11:11	Gathering unique keys for table types
+07/06/2021 12:11:11	Gathering primary keys for table types
+07/06/2021 12:11:11	Gathering indexes for table types
+07/06/2021 12:11:11	Gathering check constraints for table types
+07/06/2021 12:11:11	Gathering default constraints for table types
+07/06/2021 12:11:11	Gathering partition functions
+07/06/2021 12:11:11	Gathering partition schemes
+07/06/2021 12:11:11	Gathering functions
+07/06/2021 12:11:11	Gathering encrypted functions
+07/06/2021 12:11:11	Gathering aggregates
+07/06/2021 12:11:11	Gathering procedures
+07/06/2021 12:11:11	Gathering encrypted procedures
+07/06/2021 12:11:11	Gathering tables
+07/06/2021 12:11:11	Gathering primary keys
+07/06/2021 12:11:11	Gathering unique constraints
+07/06/2021 12:11:11	Gathering foreign keys
+07/06/2021 12:11:11	Gathering default constraints
+07/06/2021 12:11:11	Gathering check constraints
+07/06/2021 12:11:11	Gathering views
+07/06/2021 12:11:11	Gathering encrypted views
+07/06/2021 12:11:11	Gathering indexes
+07/06/2021 12:11:11	Gathering statistics
+07/06/2021 12:11:11	Gathering full-text index stoplists
+07/06/2021 12:11:11	Gathering search property lists
+07/06/2021 12:11:11	Gathering search properties
+07/06/2021 12:11:11	Gathering full-text indexes
+07/06/2021 12:11:11	Gathering column store indexes
+07/06/2021 12:11:11	Gathering spatial indexes
+07/06/2021 12:11:11	Gathering XML indexes
+07/06/2021 12:11:11	Gathering Selective XML indexes
+07/06/2021 12:11:11	Gathering encrypted triggers
+07/06/2021 12:11:11	Gathering triggers
+07/06/2021 12:11:11	Gathering encrypted and clr ddl triggers
+07/06/2021 12:11:11	Gathering ddl triggers
+07/06/2021 12:11:11	Creating edge constraints
+07/06/2021 12:11:11	Gathering synonyms
+07/06/2021 12:11:11	Gathering defaults
+07/06/2021 12:11:11	Gathering data constraint uddt bindings
+07/06/2021 12:11:11	Gathering rules
+07/06/2021 12:11:11	Gathering data constraint uddt bindings
+07/06/2021 12:11:11	Gathering message types
+07/06/2021 12:11:11	Gathering queues
+07/06/2021 12:11:11	Gathering contracts
+07/06/2021 12:11:11	Gathering services
+07/06/2021 12:11:11	Gathering event notifications
+07/06/2021 12:11:11	Gathering remote service bindings
+07/06/2021 12:11:11	Gathering broker priorities
+07/06/2021 12:11:11	Gathering signatures
+07/06/2021 12:11:11	Gathering data compression options
+07/06/2021 12:11:11	Gathering sequence types
+07/06/2021 12:11:11	Gathering security policies
+07/06/2021 12:11:11	Gather column encryption keys
+07/06/2021 12:11:11	Gathering column master keys
+07/06/2021 12:11:11	Gathering external data sources
+07/06/2021 12:11:11	Gathering external file formats
+07/06/2021 12:11:11	Gathering external tables
+07/06/2021 12:11:11	Gathering extended properties
+07/06/2021 12:11:11	Gathering credentials
+07/06/2021 12:11:11	Gathering logins
+07/06/2021 12:11:11	Gathering server audits
+07/06/2021 12:11:11	Scanning project for duplicate elements
+07/06/2021 12:11:11	Finished duplicate element processing
+07/06/2021 12:11:12	Finished importing database.
+07/06/2021 12:11:12	A summary of the import was saved to the following location: D:\_GitHub\HESA\build-a-full-rest-api-employee\Employee_db\Employee_db\Import Schema Logs\Employee_db_20210607111105.log
+07/06/2021 12:11:12	Click Finish to continue...
